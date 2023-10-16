@@ -1,4 +1,5 @@
 myfirstprojectofcprogramming
+output_will_be_HelloWorld
 #include<stdio.h>
 void main()
 {
